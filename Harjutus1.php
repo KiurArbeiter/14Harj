@@ -11,7 +11,7 @@
     
     function personalinfo($name,$dob,$starsign)
     { echo "Minu nimi on $name, olen sündinud $dob, ja mu tähtkuju on $starsign"; }
-    personalinfo("Henri", "27.03.2006", "Aeris");
+    personalinfo("Kiur", "16.02.2006", "Dog");
     ?>
     
     <?php
